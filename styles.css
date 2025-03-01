@@ -1,0 +1,29 @@
+
+body {
+    text-align: center;
+    background-color: #ffffff;
+    font-family: Arial, sans-serif;
+}
+canvas {
+    
+    background: url(Graphics/pump2.png) no-repeat center center/cover;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    
+}
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin-top: 30px;
+    cursor: pointer;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: color(srgb rgb(0, 0, 0) );
+    border-radius: 15px;
+}
+button:hover {
+    background-color: #000000;
+    color: #ffffff;
+   
+}
